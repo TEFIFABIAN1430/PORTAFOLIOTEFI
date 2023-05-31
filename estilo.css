@@ -11,7 +11,7 @@ html{
 }
 /* MENU */
 .contenedor-header{
-    background: #1e2326;
+    background: #295eff;
     position: fixed;
     width: 100%;
     top: 0;
@@ -29,7 +29,7 @@ html{
 .contenedor-header header .logo a{
     font-family: 'Righteous';
     font-size: 36px;
-    color: #1CB698;
+    color: #295eff;
     text-decoration: none;
 }
 .contenedor-header header ul{
@@ -45,10 +45,10 @@ html{
     text-decoration: none;
 }
 .contenedor-header header nav ul li a:hover{
-    color: #1CB698;
+    color: #291cb6;
 }
 .nav-responsive{
-    background-color: #1CB698;
+    background-color: #6f2bed;
     color:#fff;
     padding: 5px 10px;
     border-radius: 5px;
@@ -104,10 +104,10 @@ html{
     transition: .3s;
 }
 .inicio .contenido-banner .redes a:hover{
-    background-color: #1CB698;
+    background-color: #af20e3;
 }
 .sobremi{
-    background-color: #1e2326;
+    background-color: #75e2e6;
     color: #fff;
     padding: 50px 20px;
 }
@@ -128,7 +128,7 @@ html{
     margin-bottom: 20px;
 }
 .sobremi .contenido-seccion p span{
-    color: #1CB698;
+    color: #7425f5;
     font-weight: bold;
 }
 .sobremi .fila{
@@ -155,7 +155,7 @@ html{
     width: 130px;
 }
 .sobremi .fila .col ul li span{
-    background-color: #1CB698;
+    background-color: #3fd9eb;
     padding: 3px;
     font-weight: bold;
     border-radius: 5px;
